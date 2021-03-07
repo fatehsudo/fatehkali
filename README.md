@@ -1,0 +1,2 @@
+# fatehkali
+Inastall all linux
